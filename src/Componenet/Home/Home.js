@@ -21,7 +21,7 @@ const Home = () => {
        </h3>
        <p>Nemo enim ipsam oluptatem quia reoluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eosqui ratione.</p>
        <div className="btn_wrapper">
-       <a href="" className="btn"> Get Started</a>
+       <a href="https://github.com/dashboard" className="btn"> Get Started</a>
        </div>
        </div>
 
